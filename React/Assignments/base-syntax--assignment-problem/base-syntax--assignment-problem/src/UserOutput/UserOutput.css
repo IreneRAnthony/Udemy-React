@@ -1,0 +1,11 @@
+.paragraph {
+    border: solid 2px #eeee;
+}
+
+#username {
+    width: 65%;
+    background-color: powderblue;
+    border: solid 2px #eeee;
+    text-align: center;
+    margin: 16px auto;
+}
